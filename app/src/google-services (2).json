@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "915650653174",
+    "project_id": "uaump-83337",
+    "storage_bucket": "uaump-83337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915650653174:android:1a475d55ee4a2ee19575d7",
+        "android_client_info": {
+          "package_name": "com.example.universidad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915650653174-q6f1oja69q4l8g6m56k5m4o1s5qu4raf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDdJZOaT5y_iHjrfc77Vf0TKFNanahl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915650653174-q6f1oja69q4l8g6m56k5m4o1s5qu4raf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915650653174:android:bb8bc4af9a8c25799575d7",
+        "android_client_info": {
+          "package_name": "om.example.universidad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915650653174-q6f1oja69q4l8g6m56k5m4o1s5qu4raf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhDdJZOaT5y_iHjrfc77Vf0TKFNanahl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915650653174-q6f1oja69q4l8g6m56k5m4o1s5qu4raf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
